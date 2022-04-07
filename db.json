@@ -1,0 +1,39 @@
+{
+    "populations": [
+        {
+            "id": 1,
+            "state_name": "Katsina",
+            "male_pop": 70,
+            "female_pop": 30,
+            "total_pop": 100
+        },
+        {
+            "id": 2,
+            "state_name": "Kano",
+            "male_pop": 40,
+            "female_pop": 130,
+            "total_pop": 170
+        },
+        {
+            "id": 3,
+            "state_name": "Kaduna",
+            "male_pop": 750,
+            "female_pop": 130,
+            "total_pop": 880
+        },
+        {
+            "id": 4,
+            "state_name": "Benue",
+            "male_pop": 89,
+            "female_pop": 31,
+            "total_pop": 120
+        },
+        {
+            "id": 5,
+            "state_name": "Sokoto",
+            "male_pop": 50,
+            "female_pop": 130,
+            "total_pop": 180
+        }
+    ]
+}
